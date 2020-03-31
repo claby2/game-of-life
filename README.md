@@ -1,5 +1,7 @@
 # Game Of Life
 A visual of a cellular automaton called Conway's Game of Life implemented in C++ with SDL2.
+
+![Preview](preview.png)
 ### Dependencies
 ```
 SDL2
